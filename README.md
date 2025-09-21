@@ -1,31 +1,22 @@
-<h1> - 👋 Hi, I’m @PrinceRuselBStaMaria </h1>
 
-## 🌱 About Me
+<h1>👋 Hi, I’m Prince Rusel Sta Maria</h1>
 
-- 🌱 I’m currently learning, nextjs ,python
+## 🌱 About Me  
 
-- 😄 Pronouns: he
-
-- 🐧 Fun fact: I use Linux, so yes… I like living dangerously.
-
-🎮 My free time = anime marathons + breaking/fixing stuff.
-
-<div align = "center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceRuselBStaMaria&show_icons=true&theme=ocean_dark)
-
-</div>
-
-<div align = "center" >
+- 🌱 Currently learning **Next.js** and **Python**  
+- 😄 Pronouns: **he/him**  
+- 🐧 Fun fact: I use Linux, so yes… I like living dangerously  
+- 🎮 Free time = anime marathons + tinkering/breaking/fixing stuff
 
 ## 📫 Reach Me  
 
-[![GitHub](https://img.shields.io/github/followers/PrinceRuselBStaMaria?label=Follow&style=social)](https://github.com/PrinceRuselBStaMaria)  
-[![LinkedIn](https://img.shields.io/badge/-Prince%20Rusel-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-rusel-b-sta-maria-471122355//)  
-[![Mail](https://img.shields.io/badge/-yourmail@example.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:princeruselbstamaria@gmail.com)  
+  [![GitHub](https://img.shields.io/github/followers/PrinceRuselBStaMaria?label=Follow&style=social)](https://github.com/PrinceRuselBStaMaria)
+  [![LinkedIn](https://img.shields.io/badge/-Prince%20Rusel%20Sta%20Maria-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-rusel-b-sta-maria-471122355/)
+  [![Mail](https://img.shields.io/badge/-princeruselbstamaria@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:princeruselbstamaria@gmail.com)
 
+---
 
-<div align = "center" >
+  ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceRuselBStaMaria&show_icons=true&theme=ocean_dark)
 
 <!---
 PrinceRuselBStaMaria/PrinceRuselBStaMaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
